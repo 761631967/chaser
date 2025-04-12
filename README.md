@@ -9,5 +9,21 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 ![image](https://github.com/user-attachments/assets/b14f22cb-bd94-42e6-b832-079d6157106a)
 包括可视化组件
 ![image](https://github.com/user-attachments/assets/07d13d92-f112-4cd4-8fcc-83a738412737)
+下面是安装
 
+
+这是一个基于 Vue3 + Vite 构建的前端项目。
+
+---
+
+### 📦 安装依赖
+
+npm install
+# 或者
+yarn install
+
+本地开发环境启动
+npm run dev
+# 或者
+yarn dev
 
